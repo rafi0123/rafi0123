@@ -88,7 +88,7 @@ I'm a passionate **Full Stack & Mobile Application Developer** who loves buildin
 ## 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/rafi-ullah" target="_blank">
+  <a href="https://linkedin.com/in/rafi-ullah-a75829243" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/rafiullah34304074" target="_blank">
